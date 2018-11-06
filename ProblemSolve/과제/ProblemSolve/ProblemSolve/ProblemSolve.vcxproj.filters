@@ -1,0 +1,330 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="소스 파일">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="헤더 파일">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="리소스 파일">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="3n+1.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="AreaOfTriangle.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="BaseConversion.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Bridge.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Doublet.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="DroppingBalls.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Equation.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Fibo.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="LongDouble.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="MineSweeper.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Ones.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Polyomino.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="ShoeMaker.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Slurpys.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Transform.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Mid-term1.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Mid-term2.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Mid-term3.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Mid-term4.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Mid-term5.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="TrustGroups.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Tree.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Snail.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="NetworkFlow.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="%28Fail%29ChineseRemainderTheorem.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="%2880점%29Scud.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="%2860점%29Skyline.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="%28JH%29Tangent.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="%28Fail%29Tangent1.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="%28Fail%29Trip.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="%28Fail%29Intersection.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Final2.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Final3.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Final4.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Final1%28Fail%29.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="3n+1.inp">
+      <Filter>헤더 파일</Filter>
+    </None>
+    <None Include="3n+1.out">
+      <Filter>헤더 파일</Filter>
+    </None>
+    <None Include="AreaOfTriangle.inp">
+      <Filter>헤더 파일</Filter>
+    </None>
+    <None Include="BaseConversion.inp">
+      <Filter>헤더 파일</Filter>
+    </None>
+    <None Include="BaseConversion.out">
+      <Filter>헤더 파일</Filter>
+    </None>
+    <None Include="Bridge.inp">
+      <Filter>헤더 파일</Filter>
+    </None>
+    <None Include="Bridge.out">
+      <Filter>헤더 파일</Filter>
+    </None>
+    <None Include="Doublet.inp">
+      <Filter>헤더 파일</Filter>
+    </None>
+    <None Include="Doublet.out">
+      <Filter>헤더 파일</Filter>
+    </None>
+    <None Include="DroppingBalls.inp">
+      <Filter>헤더 파일</Filter>
+    </None>
+    <None Include="DroppingBalls.out">
+      <Filter>헤더 파일</Filter>
+    </None>
+    <None Include="Equation.inp">
+      <Filter>헤더 파일</Filter>
+    </None>
+    <None Include="Equation.out">
+      <Filter>헤더 파일</Filter>
+    </None>
+    <None Include="Fibo.inp">
+      <Filter>헤더 파일</Filter>
+    </None>
+    <None Include="Fibo.out">
+      <Filter>헤더 파일</Filter>
+    </None>
+    <None Include="LongDouble.inp">
+      <Filter>헤더 파일</Filter>
+    </None>
+    <None Include="LongDouble.out">
+      <Filter>헤더 파일</Filter>
+    </None>
+    <None Include="MineSweeper.inp">
+      <Filter>헤더 파일</Filter>
+    </None>
+    <None Include="MineSweeper.out">
+      <Filter>헤더 파일</Filter>
+    </None>
+    <None Include="Ones.inp">
+      <Filter>헤더 파일</Filter>
+    </None>
+    <None Include="Ones.out">
+      <Filter>헤더 파일</Filter>
+    </None>
+    <None Include="Polyomino.inp">
+      <Filter>헤더 파일</Filter>
+    </None>
+    <None Include="Polyomino.out">
+      <Filter>헤더 파일</Filter>
+    </None>
+    <None Include="Scud.inp">
+      <Filter>헤더 파일</Filter>
+    </None>
+    <None Include="Scud.out">
+      <Filter>헤더 파일</Filter>
+    </None>
+    <None Include="ShoeMaker.inp">
+      <Filter>헤더 파일</Filter>
+    </None>
+    <None Include="ShoeMaker.out">
+      <Filter>헤더 파일</Filter>
+    </None>
+    <None Include="Skyline.inp">
+      <Filter>헤더 파일</Filter>
+    </None>
+    <None Include="Skyline.out">
+      <Filter>헤더 파일</Filter>
+    </None>
+    <None Include="Slurpys.inp">
+      <Filter>헤더 파일</Filter>
+    </None>
+    <None Include="Slurpys.out">
+      <Filter>헤더 파일</Filter>
+    </None>
+    <None Include="Transform.inp">
+      <Filter>헤더 파일</Filter>
+    </None>
+    <None Include="Transform.out">
+      <Filter>헤더 파일</Filter>
+    </None>
+    <None Include="Trip.inp">
+      <Filter>헤더 파일</Filter>
+    </None>
+    <None Include="Trip.out">
+      <Filter>헤더 파일</Filter>
+    </None>
+    <None Include="AreaOfTriangle.out">
+      <Filter>헤더 파일</Filter>
+    </None>
+    <None Include="Mid-term2.inp">
+      <Filter>헤더 파일</Filter>
+    </None>
+    <None Include="Mid-term2.out">
+      <Filter>헤더 파일</Filter>
+    </None>
+    <None Include="Mid-term3.inp">
+      <Filter>헤더 파일</Filter>
+    </None>
+    <None Include="Mid-term3.out">
+      <Filter>헤더 파일</Filter>
+    </None>
+    <None Include="Mid-term1.inp">
+      <Filter>헤더 파일</Filter>
+    </None>
+    <None Include="Mid-term1.out">
+      <Filter>헤더 파일</Filter>
+    </None>
+    <None Include="Mid-term4.out">
+      <Filter>헤더 파일</Filter>
+    </None>
+    <None Include="Mid-term4.inp">
+      <Filter>헤더 파일</Filter>
+    </None>
+    <None Include="Mid-term5.inp">
+      <Filter>헤더 파일</Filter>
+    </None>
+    <None Include="Mid-term5.out">
+      <Filter>헤더 파일</Filter>
+    </None>
+    <None Include="TrustGroups.inp">
+      <Filter>헤더 파일</Filter>
+    </None>
+    <None Include="TrustGroups.out">
+      <Filter>헤더 파일</Filter>
+    </None>
+    <None Include="Tangent1.inp">
+      <Filter>헤더 파일</Filter>
+    </None>
+    <None Include="Tangent1.out">
+      <Filter>헤더 파일</Filter>
+    </None>
+    <None Include="Tree.inp">
+      <Filter>헤더 파일</Filter>
+    </None>
+    <None Include="Tree.out">
+      <Filter>헤더 파일</Filter>
+    </None>
+    <None Include="Snail.inp">
+      <Filter>헤더 파일</Filter>
+    </None>
+    <None Include="Snail.out">
+      <Filter>헤더 파일</Filter>
+    </None>
+    <None Include="ChineseRemainderTheorem.inp">
+      <Filter>헤더 파일</Filter>
+    </None>
+    <None Include="ChineseRemainderTheorem.out">
+      <Filter>헤더 파일</Filter>
+    </None>
+    <None Include="NetworkFlow.inp">
+      <Filter>헤더 파일</Filter>
+    </None>
+    <None Include="NetworkFlow.out">
+      <Filter>헤더 파일</Filter>
+    </None>
+    <None Include="Intersection.inp">
+      <Filter>헤더 파일</Filter>
+    </None>
+    <None Include="Intersection.out">
+      <Filter>헤더 파일</Filter>
+    </None>
+    <None Include="Final1.inp">
+      <Filter>헤더 파일</Filter>
+    </None>
+    <None Include="Final1.out">
+      <Filter>헤더 파일</Filter>
+    </None>
+    <None Include="Final2.inp">
+      <Filter>헤더 파일</Filter>
+    </None>
+    <None Include="Final2.out">
+      <Filter>헤더 파일</Filter>
+    </None>
+    <None Include="Final3.inp">
+      <Filter>헤더 파일</Filter>
+    </None>
+    <None Include="Final3.out">
+      <Filter>헤더 파일</Filter>
+    </None>
+    <None Include="Final4.inp">
+      <Filter>헤더 파일</Filter>
+    </None>
+    <None Include="Final4.out">
+      <Filter>헤더 파일</Filter>
+    </None>
+  </ItemGroup>
+</Project>

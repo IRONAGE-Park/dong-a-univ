@@ -1,0 +1,5 @@
+﻿  page.c
+c:\users\admit\desktop\pch\동아대학교\3학년\1학기\운영체제\과제\page replacement algorithm\page replacement algorithm\page replacement algorithm\page.c(123): warning C4101: 'page' :참조되지 않은 지역 변수입니다.
+c:\users\admit\desktop\pch\동아대학교\3학년\1학기\운영체제\과제\page replacement algorithm\page replacement algorithm\page replacement algorithm\page.c(123): warning C4101: 'PID' :참조되지 않은 지역 변수입니다.
+  Page Replacement Algorithm.vcxproj -> C:\Users\Admit\Desktop\PCH\동아대학교\3학년\1학기\운영체제\과제\Page Replacement Algorithm\Page Replacement Algorithm\Debug\Page Replacement Algorithm.exe
+  Page Replacement Algorithm.vcxproj -> C:\Users\Admit\Desktop\PCH\동아대학교\3학년\1학기\운영체제\과제\Page Replacement Algorithm\Page Replacement Algorithm\Debug\Page Replacement Algorithm.pdb (Partial PDB)

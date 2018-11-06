@@ -1,0 +1,213 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="소스 파일">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="헤더 파일">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="리소스 파일">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="bridge.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="cross.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="cycle.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="dice.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="dijkstra.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="dijkstra_check.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="dish.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="family.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="fraction.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="frog.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="graph.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="grid1.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="grid2.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="mail.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="number.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="number_Daeyeol.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="numgame.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="numgame_realgame.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="primefactor.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="rods.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="rods_잘짬.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="sequence.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="string.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="tree.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bridge.inp">
+      <Filter>헤더 파일</Filter>
+    </None>
+    <None Include="bridge.out">
+      <Filter>헤더 파일</Filter>
+    </None>
+    <None Include="cross.inp">
+      <Filter>헤더 파일</Filter>
+    </None>
+    <None Include="cross.out">
+      <Filter>헤더 파일</Filter>
+    </None>
+    <None Include="cycle.inp">
+      <Filter>헤더 파일</Filter>
+    </None>
+    <None Include="cycle.out">
+      <Filter>헤더 파일</Filter>
+    </None>
+    <None Include="dice.inp">
+      <Filter>헤더 파일</Filter>
+    </None>
+    <None Include="dice.out">
+      <Filter>헤더 파일</Filter>
+    </None>
+    <None Include="dijkstra.inp">
+      <Filter>헤더 파일</Filter>
+    </None>
+    <None Include="dijkstra.out">
+      <Filter>헤더 파일</Filter>
+    </None>
+    <None Include="dish.inp">
+      <Filter>헤더 파일</Filter>
+    </None>
+    <None Include="dish.out">
+      <Filter>헤더 파일</Filter>
+    </None>
+    <None Include="family.inp">
+      <Filter>헤더 파일</Filter>
+    </None>
+    <None Include="family.out">
+      <Filter>헤더 파일</Filter>
+    </None>
+    <None Include="fraction.inp">
+      <Filter>헤더 파일</Filter>
+    </None>
+    <None Include="fraction.out">
+      <Filter>헤더 파일</Filter>
+    </None>
+    <None Include="frog.inp">
+      <Filter>헤더 파일</Filter>
+    </None>
+    <None Include="frog.out">
+      <Filter>헤더 파일</Filter>
+    </None>
+    <None Include="graph.inp">
+      <Filter>헤더 파일</Filter>
+    </None>
+    <None Include="graph.out">
+      <Filter>헤더 파일</Filter>
+    </None>
+    <None Include="grid1.inp">
+      <Filter>헤더 파일</Filter>
+    </None>
+    <None Include="grid1.out">
+      <Filter>헤더 파일</Filter>
+    </None>
+    <None Include="grid2.inp">
+      <Filter>헤더 파일</Filter>
+    </None>
+    <None Include="grid2.out">
+      <Filter>헤더 파일</Filter>
+    </None>
+    <None Include="mail.inp">
+      <Filter>헤더 파일</Filter>
+    </None>
+    <None Include="mail.out">
+      <Filter>헤더 파일</Filter>
+    </None>
+    <None Include="number.inp">
+      <Filter>헤더 파일</Filter>
+    </None>
+    <None Include="number.out">
+      <Filter>헤더 파일</Filter>
+    </None>
+    <None Include="numgame.inp">
+      <Filter>헤더 파일</Filter>
+    </None>
+    <None Include="numgame.out">
+      <Filter>헤더 파일</Filter>
+    </None>
+    <None Include="primefactor.inp">
+      <Filter>헤더 파일</Filter>
+    </None>
+    <None Include="primefactor.out">
+      <Filter>헤더 파일</Filter>
+    </None>
+    <None Include="rods.inp">
+      <Filter>헤더 파일</Filter>
+    </None>
+    <None Include="rods.out">
+      <Filter>헤더 파일</Filter>
+    </None>
+    <None Include="sequence.inp">
+      <Filter>헤더 파일</Filter>
+    </None>
+    <None Include="sequence.out">
+      <Filter>헤더 파일</Filter>
+    </None>
+    <None Include="string.inp">
+      <Filter>헤더 파일</Filter>
+    </None>
+    <None Include="string.out">
+      <Filter>헤더 파일</Filter>
+    </None>
+    <None Include="tree.inp">
+      <Filter>헤더 파일</Filter>
+    </None>
+    <None Include="tree.out">
+      <Filter>헤더 파일</Filter>
+    </None>
+  </ItemGroup>
+</Project>

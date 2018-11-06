@@ -1,0 +1,13 @@
+n=20 m=54 start=17 DFS:211 BFS:195
+n=20 m=54 start=11 DFS:238 BFS:206
+n=20 m=54 start=1 DFS:228 BFS:200
+n=23 m=64 start=11 DFS:254 BFS:243
+n=23 m=64 start=20 DFS:237 BFS:226
+n=23 m=64 start=4 DFS:259 BFS:224
+n=23 m=64 start=1 DFS:262 BFS:225
+n=23 m=64 start=18 DFS:271 BFS:217
+n=25 m=65 start=22 DFS:292 BFS:303
+n=25 m=65 start=5 DFS:292 BFS:284
+n=25 m=65 start=12 DFS:297 BFS:284
+n=25 m=65 start=19 DFS:276 BFS:309
+n=25 m=65 start=14 DFS:279 BFS:334
